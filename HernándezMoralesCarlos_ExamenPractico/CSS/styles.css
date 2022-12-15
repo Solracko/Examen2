@@ -1,0 +1,65 @@
+:root{
+    --Red: hsl(0, 78%, 62%);
+    --Cyan: hsl(180, 62%, 55%);
+    --Orange: hsl(34, 97%, 64%);
+    --Blue: hsl(212, 86%, 64%);
+    --VeryDarkBlue: hsl(234, 12%, 34%);
+    --GrayishBlue: hsl(229, 6%, 66%);
+    --VeryLightGray: hsl(0, 0%, 98%);
+
+}
+.attribution {
+ font-size: 11px; text-align: center; 
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
+.html{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+.introduccion{
+    text-align: center;
+}
+.reliable{
+    font-size: 2rem;
+}
+.power{
+    font-size: 2rem;
+}
+.algo{
+    text-align: center;
+    font-weight: 200;
+    font-size: large;
+}
+.supervisor{
+    text-align: center;
+    background-color:var(--GrayishBlue);    
+}
+.supervisor--titulo{
+    font-size: 1.5rem;
+}
+.teambuilder{
+    text-align: center;
+    background-color:var(--Red)
+}
+.teambuilder--builder{
+    font-size: 1.5rem;
+
+}
+.karman{
+    text-align: center;
+    background-color: var(--VeryDarkBlue);
+}
+.karman--titulo{
+    font-size: 1.5rem;
+
+}
+.calculator{
+    text-align: center;
+    background-color: var(--Cyan);
+}
+.calculator--calculator{
+    font-size: 1.5rem;
+
+}
